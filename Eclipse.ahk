@@ -60,10 +60,6 @@ Gui Add, Button, x0 y0 w0 h0 Default gGuiSubmit
 Return
 #include HotkeyDialog.ahk
 
-GuiDropFiles:
-	msgbox here
-Return
-
 Execute:
 	Clipboard := ""
 	Send ^c
