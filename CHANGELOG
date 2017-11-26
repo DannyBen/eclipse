@@ -1,0 +1,30 @@
+```
+2017 11 26 - 0.25
+  Changed: License from CC to MIT
+  Changed: Code released on GitHub
+
+2011 12 27 - 0.24
+  Changed: Password is now enclosed in quotes, allowing spaces.
+  Added  : About dialog.
+
+2011 11 25 - 0.23
+  Added  : Password window will now be Always on Top (configurable)
+  Added  : Password window will now have taskbar icon (for alt-tabbing)
+  Added  : Checking the Remember checkbox will still keep password in focus
+
+2011 03 04 - 0.22
+  Added  : Configuration (INI only) to set the default state of the 
+           Remember checkbox. Changed default to unchecked.
+
+2011 02 02 - 0.21
+  Added  : Configuration dialog to select hotkeys
+  Added  : Hotkey for the "Foprget Password" function
+  Added  : Ability to hide the tray icon through INI file configuration. 
+           (thanks Randal).
+
+2010 12 08 - 0.20
+  Changed: Now using MySecret.exe for encryption/decryption
+
+Some time ago - 0.10
+  First public release (as open source on Autohotkey forum)
+```
