@@ -24,7 +24,7 @@ Usage
 Note: The encrypted / decrypted text is also stored in the clipboard
 so you may paste it anywhere else.
  
-You may hide the tray icon by setting HideIcon=1 in the INI file.
+You may hide the tray icon by setting `HideIcon=1` in the INI file.
 
 ---
 
