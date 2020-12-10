@@ -20,11 +20,10 @@ Usage
 - You may modify the shortcut key by selecting Modify Hotkey from the 
   menu. This will create Eclipse.ini in the program's folder with 
   letting you change your hotkey.   
-   
-Note: The encrypted / decrypted text is also stored in the clipboard
-so you may paste it anywhere else.
- 
-You may hide the tray icon by setting `HideIcon=1` in the INI file.
+- You can choose to keep the encrypted/decrypted text in the clipboard or
+  not by ticking the Keep checkbox.
+- Additional options can be configered in the provided INI file.
+- You may hide the tray icon by setting `HideIcon=1` in the INI file.
 
 ---
 
